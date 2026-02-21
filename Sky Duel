@@ -803,7 +803,7 @@ local stealStartTime = nil
 local progressConnection = nil
 local StealData = {}
 
-local DISCORD_TEXT = "discord.gg/22s"
+local DISCORD_TEXT = "discord.gg/TmevzZSkhp"
 
 local function getDiscordProgress(percent)
     local totalChars = #DISCORD_TEXT
